@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h3>Hey, I'm Vaibhav 👋</h3>
+      <h3>Hey, I'm Bhavya 👋</h3>
       <p><b>Passionate Developer & Tech Enthusiast</b></p>
       <p>Learning: <b>DSA (C/C++), Python, Web Development, and the wild world of code.</b></p>
       <p>Ask me about: <b>C Programming, beginner-friendly DSA, and logic building.</b></p>
@@ -61,5 +61,5 @@
 <p align="left">
   <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ybhavya057@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
