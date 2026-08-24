@@ -2,7 +2,7 @@
 
 <h2>Hey, I'm Bhavya 👋</h2>
 <p><b>Passionate Developer & Tech Enthusiast</b></p>
-<p>Learning: <b>DSA (C/C++), Python, Web Development.</b></p>
+<p>Learning: <b>DSA , C++, Python, Web Development.</b></p>
 <p>Ask me about: <b>C Programming, beginner-friendly DSA, and logic building.</b></p>
 
 
