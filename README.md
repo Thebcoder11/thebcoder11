@@ -35,38 +35,30 @@ Passions: [AI/ML, Software Development, Algorithms, Database Systems]
 
 <div align="center">
 
-#### 💻 Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-</p>
+  <a href="https://github.com/thebcoder11">
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,postgres,pandas,numpy,sklearn,git,github,vscode&perline=6" alt="Tech Stack Icons" />
+  </a>
 
-#### 🤖 AI, Machine Learning & Data Science
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-</p>
+  <br/><br/>
 
-#### 🗄️ Databases & Core Computer Science
-<p align="center">
-  <img src="https://img.shields.io/badge/DBMS-Relational_Data-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="DBMS" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Data%20Structures-Algorithms-E34F26?style=for-the-badge&logo=codepen&logoColor=white" alt="DSA" />
-  <img src="https://img.shields.io/badge/OOP-Object_Oriented-555555?style=for-the-badge&logo=cplusplus&logoColor=white" alt="OOP" />
-</p>
-
-#### ⚙️ Developer Tools & Environments
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
+  <table>
+    <tr>
+      <td align="center" width="28%"><b>💻 Languages</b></td>
+      <td align="left"><code>Python</code> • <code>C++</code> • <code>C</code> • <code>SQL</code></td>
+    </tr>
+    <tr>
+      <td align="center" width="28%"><b>🤖 AI & Data Science</b></td>
+      <td align="left"><code>Machine Learning</code> • <code>Artificial Intelligence</code> • <code>Pandas</code> • <code>NumPy</code> • <code>Scikit-Learn</code></td>
+    </tr>
+    <tr>
+      <td align="center" width="28%"><b>🗄️ Databases & Core CS</b></td>
+      <td align="left"><code>DBMS</code> • <code>MySQL</code> • <code>PostgreSQL</code> • <code>Data Structures & Algorithms</code></td>
+    </tr>
+    <tr>
+      <td align="center" width="28%"><b>⚙️ Tools & Platforms</b></td>
+      <td align="left"><code>Git</code> • <code>GitHub</code> • <code>VS Code</code> • <code>Jupyter</code></td>
+    </tr>
+  </table>
 
 </div>
 
@@ -78,13 +70,19 @@ Passions: [AI/ML, Software Development, Algorithms, Database Systems]
 
   <!-- GitHub Stats & Top Langs -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=thebcoder11&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5D4&icon_color=7928CA&text_color=c9d1d9" alt="Bhavya's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebcoder11&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9" alt="Top Languages" />
+    <a href="https://github.com/thebcoder11">
+      <img src="https://github-stats-extended.vercel.app/api?username=thebcoder11&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5D4&icon_color=7928CA&text_color=c9d1d9" alt="Bhavya's GitHub Stats" />
+    </a>
+    <a href="https://github.com/thebcoder11">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thebcoder11&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9" alt="Top Languages" />
+    </a>
   </p>
 
   <!-- GitHub Streak -->
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thebcoder11&theme=radical&hide_border=true&background=0d1117&ring=00F5D4&fire=FF007A&currStreakLabel=00F5D4" alt="GitHub Streak" />
+    <a href="https://github.com/thebcoder11">
+      <img src="https://streak-stats.demolab.com/?user=thebcoder11&theme=radical&hide_border=true&background=0d1117&ring=00F5D4&fire=FF007A&currStreakLabel=00F5D4" alt="GitHub Streak" />
+    </a>
   </p>
 
 </div>
